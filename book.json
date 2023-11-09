@@ -1,0 +1,112 @@
+{
+                        "title": "GWTT",                     
+                        "language": "zh-hans",
+                        "author" : "yeshp",
+                        "gitbook": "3.2.3",
+                         "styles": {
+                                      "website": "styles/custom.css"
+                                       },
+                         "links" : {
+                                        "sidebar" : {
+                                                            "GitHub" : "  https://yeshp-gw.github.io/book/"
+                                                         }
+                                      },
+                                          "plugins": [ 
+                                                                 "back-to-top-button",
+                                                                  "alerts",
+                                                                  "splitter",
+                                                                  "hide-element",
+                                                                  "audio_image",
+                                                                  "code",
+                                                                  "insert-logo",
+                                                                  "-sharing","sharing-plus",
+                                                                  "-lunr", "-search", "search-pro",
+                                                                  "custom-favicon",
+                                                                  "anchor-navigation-ex",
+                                                                  "github",
+                                                                  "flexible-alerts",
+                                                                  "auto-scroll-table",
+                                                                  "flexible-alerts",
+                                                                  "embed-pdf",
+                                                                  "prism-themes",
+                                                                  "-highlight",
+                                                                  "chart",
+                                                                  "youtube",
+                                                                  "katex",
+                                                                  "expandable-chapters",
+                                                                  "flexible-alerts",
+                                                                  "advanced-emoji"
+                                                                 
+                                                                 
+                                                                 
+                                                                    	
+
+                                                            ],
+                                         "pluginsConfig": {      "favicon": "icon/favicon.ico",
+
+                                                                                
+
+                                                                       "hide-element": { 
+                                                                                                     "elements":  [ 
+                                                                                                                           ".gitbook-link"
+                                                                                                                          ]           
+                                                                                                    
+                                                                                                  },
+
+                                                                         "insert-logo":   {
+                                                                                                     "url": "image/gw.png",
+                                                                                                     "style": "background: none; max-height: 80px; min-height: 30px"
+                                                                                                  },
+
+                                                                                 "sharing": {
+                                                                                                       "weibo": false,
+                                                                                                        "google": false,
+                                                                                                        "twiter": false,
+                                                                                                         
+                                                                                                          "all": ["qq"]
+                                                                                                  } ,
+                                                           "anchor-navigation-ex":  {
+                                                                                                          "showLevel": false,
+                                                                                                           "showGoTop": false
+                                                                                                    } ,
+                                                                                   "github":  {
+                                                                                                           "url": "https://github.com/yeshp-gw/version/releases"       
+                                                                                                    },
+                                                                                       "code": {
+                                                                                                            "copyButtons": true  
+                                                                                                    },
+                                                                                     "prism":  {
+                                                                                                          "css":["prismjs/themes/prism-solarizedlight.css"]
+                                                                                                    },
+                                                                                      "chart":  {
+                                                                                                                "type": "c3"
+                                                                                                    } ,
+                                                                         "flexible-alerts": {"style": "flat",
+                                                                                                     "note": {
+            "label": "重点"
+          }
+
+                                                                                                    }
+                                                                                  
+                                                                                                                                                                     
+                                                                           
+                                                                                                                                                                                 
+                                                                                                                                                                                                                                                    }
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
